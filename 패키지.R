@@ -1,0 +1,7 @@
+library(install.packages(c('randomForest','ROCR','e1071','nnet','ggplot2','caret')))
+install.packages(c('randomForest','ROCR','e1071','nnet','ggplot2','caret'))
+library(randomForest)
+library(caret)
+library(e1071)
+library(ROCR)
+library(ggplot2)
